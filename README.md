@@ -52,9 +52,11 @@ I love building scalable applications, solving real-world problems, and continuo
 ## 🧩 LeetCode Profile
 
 <p align="center">
-  <a href="https://leetcode.com/u/Sai_Krishna893/">
-    <img src="https://leetcard.jacoblin.cool/Sai_Krishna893?theme=dark&font=Karma&ext=contest" />
-  </a>
+  <img src="https://leetcode-stats.vercel.app/api?username=Sai_Krishna893&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sai_Krishna893?ext=heatmap" />
 </p>
 
 ---
@@ -62,11 +64,11 @@ I love building scalable applications, solving real-world problems, and continuo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikrishna1124&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikrishna1124&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna1124&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Saikrishna1124&theme=tokyonight" />
 </p>
 
 ---
