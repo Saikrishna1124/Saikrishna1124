@@ -9,8 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saikrishna1124)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sai_Krishna893/)
 
-<br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 </div>
@@ -49,10 +47,20 @@ Passionate Computer Science student specialising in **AI & ML**, with hands-on e
 
 ---
 
+## ⚡ What I Do
+
+- 💻 Build full-stack web applications
+- 🧠 Solve DSA problems regularly
+- 🤖 Explore AI/ML-based solutions
+- ☁️ Learn and deploy using cloud (AWS)
+
+---
+
 ## 🚀 Projects
 
 ### 🤖 NexusLearn — AI-Powered E-Learning Platform
 > Full-stack smart learning platform with AI-driven features, course management, and personalised learning paths.
+> Implemented authentication, AI-based recommendations, and real-time data handling.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -133,11 +141,11 @@ Passionate Computer Science student specialising in **AI & ML**, with hands-on e
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Saikrishna1124&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
-&nbsp;
+<br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saikrishna1124&theme=tokyonight" width="48%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saikrishna1124&theme=tokyonight" width="48%" />
-&nbsp;
+<br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saikrishna1124&theme=tokyonight" width="48%" />
 
 </div>
@@ -156,8 +164,7 @@ Passionate Computer Science student specialising in **AI & ML**, with hands-on e
 
 ## 🎯 Career Objective
 
-> Aspiring Software Engineer with strong programming, problem-solving, and full-stack development skills.
-> Seeking opportunities to build scalable applications and grow alongside a dynamic, impact-driven team.
+> Aspiring Software Engineer focused on building scalable applications and solving real-world problems through efficient and modern technologies.
 
 ---
 
