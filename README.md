@@ -9,6 +9,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saikrishna1124)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sai_Krishna893/)
 
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning.+Always+Building." alt="Typing SVG" />
+
 </div>
 
 ---
@@ -21,6 +25,16 @@ Passionate Computer Science student specialising in **AI & ML**, with hands-on e
 - 💼 **Python Developer Intern** at Elevate Labs — recognised as **🏆 Best Performer**
 - 🌱 Currently deepening skills in **AI/ML, DSA, and cloud (AWS)**
 - 🚀 Open to **internships** and **full-time SWE roles**
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **Best Performer** — Elevate Labs Internship (Sep–Nov 2025)
+- 🚀 Built and deployed multiple full-stack applications used in real environments
+- 🧩 Active problem solver on LeetCode — consistently sharpening DSA skills
+- ☁️ AWS Academy certified — hands-on cloud infrastructure knowledge
+- 📊 Cisco-certified in Python Essentials & Data Science
 
 ---
 
@@ -40,9 +54,11 @@ Passionate Computer Science student specialising in **AI & ML**, with hands-on e
 ### 🤖 NexusLearn — AI-Powered E-Learning Platform
 > Full-stack smart learning platform with AI-driven features, course management, and personalised learning paths.
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 🔗 **[Live Demo](https://nexuslearn-ni3a.onrender.com)**
 
@@ -118,7 +134,7 @@ Passionate Computer Science student specialising in **AI & ML**, with hands-on e
 
 <img src="https://streak-stats.demolab.com?user=Saikrishna1124&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Saikrishna1124&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saikrishna1124&theme=tokyonight" width="48%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saikrishna1124&theme=tokyonight" width="48%" />
 &nbsp;
