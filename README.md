@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZoNzY1OWs0d3hoZW1sdnB5MjF6dTVvY2lrbzNoemxjeWgzZmp4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" />
 
 <p>
 Passionate Computer Science student specialising in <strong><code>AI & ML</code></strong>, with hands-on experience in full-stack web development and backend engineering. I love building scalable, real-world applications and am always looking for opportunities to grow in a fast-paced environment.
@@ -49,6 +49,8 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 ---
 
 ## 🏅 Achievements
+
+<img align="right" width="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
 
 <div align="center">
 
