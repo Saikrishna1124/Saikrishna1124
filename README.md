@@ -17,33 +17,74 @@
 
 ## 👋 About Me
 
-Passionate Computer Science student specialising in **AI & ML**, with hands-on experience in full-stack web development and backend engineering. I love building scalable, real-world applications and am always looking for opportunities to grow in a fast-paced environment.
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 **B.Tech CSE (AI & ML)** — Parul University, Vadodara | **CGPA: 8.01**
-- 💼 **Python Developer Intern** at Elevate Labs — recognised as **🏆 Best Performer**
-- 🌱 Currently deepening skills in **AI/ML, DSA, and cloud (AWS)**
-- 🚀 Open to **internships** and **full-time SWE roles**
+<p>
+Passionate Computer Science student specialising in <strong><code>AI & ML</code></strong>, with hands-on experience in full-stack web development and backend engineering. I love building scalable, real-world applications and am always looking for opportunities to grow in a fast-paced environment.
+</p>
+
+<table border="0">
+  <tr>
+    <td>🎓</td>
+    <td><strong>B.Tech CSE (AI & ML)</strong> — Parul University, Vadodara</td>
+    <td><img src="https://img.shields.io/badge/CGPA-8.01-brightgreen?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td><strong>Python Developer Intern</strong> — Elevate Labs</td>
+    <td><img src="https://img.shields.io/badge/🏆-Best%20Performer-gold?style=flat-square&labelColor=black" /></td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>Currently deepening skills in <strong>AI/ML, DSA & AWS</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td>Open to <strong>internships</strong> & <strong>full-time SWE roles</strong></td>
+    <td><img src="https://img.shields.io/badge/Status-Available-00e676?style=flat-square&labelColor=1a1a2e" /></td>
+  </tr>
+</table>
 
 ---
 
 ## 🏅 Achievements
 
-- 🥇 **Best Performer** — Elevate Labs Internship (Sep–Nov 2025)
-- 🚀 Built and deployed multiple full-stack applications used in real environments
-- 🧩 Active problem solver on LeetCode — consistently sharpening DSA skills
-- ☁️ AWS Academy certified — hands-on cloud infrastructure knowledge
-- 📊 Cisco-certified in Python Essentials & Data Science
+<div align="center">
+
+| 🥇 | Achievement | Badge |
+|:---:|---|:---:|
+| 🏆 | **Best Performer** — Elevate Labs Internship (Sep–Nov 2025) | ![Best Performer](https://img.shields.io/badge/Award-Best%20Performer-FFD700?style=flat-square&labelColor=000000) |
+| 🚀 | Built & deployed **multiple full-stack apps** in real environments | ![Projects](https://img.shields.io/badge/Projects-3%2B%20Shipped-00C896?style=flat-square&labelColor=1a1a2e) |
+| 🧩 | Active **LeetCode** problem solver — sharpening DSA consistently | ![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=flat-square&logo=leetcode&logoColor=black) |
+| ☁️ | **AWS Academy** certified — hands-on cloud infrastructure knowledge | ![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| 📊 | **Cisco** certified in Python Essentials & Data Science | ![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
+
+</div>
 
 ---
 
 ## 💼 Experience
 
-### Python Developer Intern — Elevate Labs
-📅 Sep 2025 – Nov 2025
-
-- Developed robust backend logic and APIs using **Python**
-- Delivered features for real-world production applications
-- Awarded **🏆 Best Performer** out of the entire internship cohort
+<table>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4o0s2mK8EkdZ8StqZz-r-cCm0XgrKKSNIbA&s" width="52" height="52" style="border-radius:8px" />
+      <br/>
+      <img src="https://img.shields.io/badge/Elevate-Labs-6C63FF?style=flat-square&logoColor=white" />
+    </td>
+    <td>
+      <strong>🐍 Python Developer Intern</strong> &nbsp;
+      <img src="https://img.shields.io/badge/Sep%202025–Nov%202025-555555?style=flat-square" />
+      <br/><br/>
+      ✅ &nbsp;Developed robust backend logic and APIs using <code>Python</code><br/>
+      ✅ &nbsp;Delivered features for real-world production applications<br/>
+      🏆 &nbsp;<strong>Awarded Best Performer</strong> out of the entire internship cohort
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🏆%20Best%20Performer-FFD700?style=for-the-badge&labelColor=000000" />
+    </td>
+  </tr>
+</table>
 
 ---
 
