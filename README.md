@@ -50,7 +50,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ## 🏅 Achievements
 
-<img align="right" width="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
+<img align="right" width="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 <table>
   <tr>
-    <td width="72" align="center">
+    <td width="180" align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4o0s2mK8EkdZ8StqZz-r-cCm0XgrKKSNIbA&s" width="52" height="52" style="border-radius:8px" />
       <br/>
       <img src="https://img.shields.io/badge/Elevate-Labs-6C63FF?style=flat-square&logoColor=white" />
