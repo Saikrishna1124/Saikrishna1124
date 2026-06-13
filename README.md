@@ -218,3 +218,23 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 ![Profile views](https://komarev.com/ghpvc/?username=Saikrishna1124&color=0e75b6&style=flat-square&label=Profile+Views)
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400" />
+
+<br/><br/>
+
+### Thank You for Visiting! 🙏
+
+**⭐ Always learning. Always building.**
+
+Made with ❤️ by [Sai Krishna](https://github.com/Saikrishna1124)
+
+![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-00F7FF?style=flat-square&labelColor=1a1a2e)
+
+![Profile views](https://komarev.com/ghpvc/?username=Saikrishna1124&color=0e75b6&style=flat-square&label=Profile+Views)
+
+</div>
