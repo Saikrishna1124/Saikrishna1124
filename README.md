@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About Me
+## <img src="https://cdn-icons-png.flaticon.com/128/4727/4727424.png" width="28" /> About Me
 
 <img align="right" width="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZoNzY1OWs0d3hoZW1sdnB5MjF6dTVvY2lrbzNoemxjeWgzZmp4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" />
 
@@ -48,9 +48,9 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## 🏅 Achievements
+## <img src="https://cdn-icons-png.flaticon.com/128/3135/3135783.png" width="28" /> Achievements
 
-<img align="right" width="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
+<img align="right" width="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## 💼 Experience
+## <img src="https://cdn-icons-png.flaticon.com/128/10142/10142862.png" width="28" /> Experience
 
 <table>
   <tr>
@@ -90,7 +90,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## ⚡ What I Do
+## <img src="https://cdn-icons-png.flaticon.com/128/3264/3264753.png" width="28" /> What I Do
 
 - 💻 Build full-stack web applications
 - 🧠 Solve DSA problems regularly
@@ -99,9 +99,9 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## 🚀 Projects
+## <img src="https://cdn-icons-png.flaticon.com/128/1067/1067357.png" width="28" /> Projects
 
-### 🤖 NexusLearn — AI-Powered E-Learning Platform
+### <img src="https://cdn-icons-png.flaticon.com/128/8750/8750754.png" width="22" /> NexusLearn — AI-Powered E-Learning Platform
 > Full-stack smart learning platform with AI-driven features, course management, and personalised learning paths.
 > Implemented authentication, AI-based recommendations, and real-time data handling.
 
@@ -115,7 +115,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-### 🏫 CampusPro — College Management System
+### <img src="https://cdn-icons-png.flaticon.com/128/167/167707.png" width="22" /> CampusPro — College Management System
 > End-to-end college management system handling academics, students, and administration.
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -136,7 +136,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## 🛠️ Technical Skills
+## <img src="https://cdn-icons-png.flaticon.com/128/10262/10262344.png" width="28" /> Technical Skills
 
 **Languages**
 
@@ -167,7 +167,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## 🏆 Certifications
+## <img src="https://cdn-icons-png.flaticon.com/128/2679/2679078.png" width="28" /> Certifications
 
 | Certificate | Issuer |
 |---|---|
@@ -179,7 +179,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn-icons-png.flaticon.com/128/1011/1011528.png" width="28" /> GitHub Stats
 
 <div align="center">
 
