@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6C63FF,100:FF6F00&height=220&section=header&text=Sai%20Krishna%20Gummadidala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=58&descSize=16" />
-
 <div align="center">
+
+# Sai Krishna Gummadidala
 
 **`B.Tech CSE (AI & ML) · Parul University · CGPA 8.01`**
 
@@ -15,9 +15,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6C63FF&height=3&section=header" />
-
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:6C63FF&height=40&text=👋%20About%20Me&fontSize=18&fontColor=ffffff&animation=fadeIn" width="200" />
+## 👋 About Me
 
 <img align="right" width="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZoNzY1OWs0d3hoZW1sdnB5MjF6dTVvY2lrbzNoemxjeWgzZmp4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" />
 
@@ -50,9 +48,9 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD700,100:FF6F00&height=40&text=🏅%20Achievements&fontSize=18&fontColor=ffffff&animation=fadeIn" width="220" />
+## 🏅 Achievements
 
-<img align="right" width="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
+<img align="right" width="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
 
 <div align="center">
 
@@ -68,7 +66,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:0A66C2&height=40&text=💼%20Experience&fontSize=18&fontColor=ffffff&animation=fadeIn" width="200" />
+## 💼 Experience
 
 <table>
   <tr>
@@ -92,7 +90,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C896,100:00F7FF&height=40&text=⚡%20What%20I%20Do&fontSize=18&fontColor=ffffff&animation=fadeIn" width="190" />
+## ⚡ What I Do
 
 - 💻 Build full-stack web applications
 - 🧠 Solve DSA problems regularly
@@ -101,7 +99,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6F00,100:FFD700&height=40&text=🚀%20Projects&fontSize=18&fontColor=ffffff&animation=fadeIn" width="180" />
+## 🚀 Projects
 
 ### 🤖 NexusLearn — AI-Powered E-Learning Platform
 > Full-stack smart learning platform with AI-driven features, course management, and personalised learning paths.
@@ -138,7 +136,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3776AB,100:00C896&height=40&text=🛠️%20Technical%20Skills&fontSize=18&fontColor=ffffff&animation=fadeIn" width="240" />
+## 🛠️ Technical Skills
 
 **Languages**
 
@@ -169,7 +167,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD700,100:FF9900&height=40&text=🏆%20Certifications&fontSize=18&fontColor=ffffff&animation=fadeIn" width="220" />
+## 🏆 Certifications
 
 | Certificate | Issuer |
 |---|---|
@@ -181,7 +179,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:0A66C2&height=40&text=📊%20GitHub%20Stats&fontSize=18&fontColor=ffffff&animation=fadeIn" width="210" />
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -197,7 +195,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFA116,100:FFD700&height=40&text=🧩%20LeetCode%20Progress&fontSize=18&fontColor=ffffff&animation=fadeIn" width="260" />
+## 🧩 LeetCode Progress
 
 <div align="center">
 
@@ -207,19 +205,19 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C896,100:00F7FF&height=40&text=🐍%20GitHub%20Contribution%20Snake&fontSize=18&fontColor=ffffff&animation=fadeIn" width="340" />
+## 🎯 Career Objective
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Saikrishna1124/Saikrishna1124/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+> Aspiring Software Engineer focused on building scalable applications and solving real-world problems through efficient and modern technologies.
 
 ---
 
-## <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:FF6F00&height=40&text=🎯%20Career%20Objective&fontSize=18&fontColor=ffffff&animation=fadeIn" width="240" />
+<div align="center">
 
-> Aspiring Software Engineer focused on building scalable applications and solving real-world problems through efficient and modern technologies.
+**⭐ Always learning. Always building.**
+
+![Profile views](https://komarev.com/ghpvc/?username=Saikrishna1124&color=0e75b6&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -240,5 +238,3 @@ Made with ❤️ by [Sai Krishna](https://github.com/Saikrishna1124)
 ![Profile views](https://komarev.com/ghpvc/?username=Saikrishna1124&color=0e75b6&style=flat-square&label=Profile+Views)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00F7FF,100:FF6F00&height=120&section=footer" />
