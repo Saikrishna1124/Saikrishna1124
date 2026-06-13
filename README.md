@@ -50,7 +50,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ## 🏅 Achievements
 
-<img align="right" width="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
+<img align="right" width="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
 
 <div align="center">
 
@@ -205,6 +205,16 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Saikrishna1124/Saikrishna1124/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🎯 Career Objective
 
 > Aspiring Software Engineer focused on building scalable applications and solving real-world problems through efficient and modern technologies.
@@ -213,7 +223,17 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400" />
+
+<br/><br/>
+
+### Thank You for Visiting! 🙏
+
 **⭐ Always learning. Always building.**
+
+Made with ❤️ by [Sai Krishna](https://github.com/Saikrishna1124)
+
+![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-00F7FF?style=flat-square&labelColor=1a1a2e)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Saikrishna1124&color=0e75b6&style=flat-square&label=Profile+Views)
 
