@@ -50,7 +50,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ## 🏅 Achievements
 
-<img align="right" width="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
+<img align="right" width="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
 
 <div align="center">
 
@@ -205,32 +205,6 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Saikrishna1124
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
----
-
 ## 🎯 Career Objective
 
 > Aspiring Software Engineer focused on building scalable applications and solving real-world problems through efficient and modern technologies.
@@ -239,17 +213,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400" />
-
-<br/><br/>
-
-### Thank You for Visiting! 🙏
-
 **⭐ Always learning. Always building.**
-
-Made with ❤️ by [Sai Krishna](https://github.com/Saikrishna1124)
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-00F7FF?style=flat-square&labelColor=1a1a2e)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Saikrishna1124&color=0e75b6&style=flat-square&label=Profile+Views)
 
