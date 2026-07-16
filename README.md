@@ -4,7 +4,8 @@
 <!--                    ANIMATED HEADER BANNER                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sai%20Krishna%20Gummadidala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descAlign=50&descSize=16" width="100%"/>
+<!-- 1. HEADER BANNER — increased height, reduced font size, adjusted vertical alignment -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Sai%20Krishna%20Gummadidala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=52&descAlign=50&descSize=15" width="100%"/>
 
 **`B.Tech CSE (AI & ML) · Parul University · CGPA 8.12`**
 
@@ -15,9 +16,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning.+Always+Building.+%E2%9C%A8" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Saikrishna1124&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Saikrishna1124?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" />
-<img src="https://img.shields.io/github/stars/Saikrishna1124?label=Stars&style=for-the-badge&color=FFD700&labelColor=1a1a2e" />
+<!-- 2. PROFILE VIEWS / FOLLOWERS / STARS — wrapped in one explicit paragraph for guaranteed inline order -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saikrishna1124&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Saikrishna1124?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Saikrishna1124?label=Stars&style=for-the-badge&color=FFD700&labelColor=1a1a2e" />
+</p>
 
 </div>
 
@@ -229,7 +235,8 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saikrishna1124&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+<!-- 3. GITHUB TROPHIES — removed no-bg (was likely causing invisible/blank trophies) -->
+<img src="https://github-profile-trophy.vercel.app/?username=Saikrishna1124&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=4" />
 
 </div>
 
