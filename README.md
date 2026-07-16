@@ -234,7 +234,8 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Saikrishna1124/Saikrishna1124/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contributions" />
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
+
 
 </div>
 
