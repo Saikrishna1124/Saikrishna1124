@@ -231,17 +231,6 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- 3. GITHUB TROPHIES — removed no-bg (was likely causing invisible/blank trophies) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Saikrishna1124&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=4" />
-
-</div>
-
----
-
 ## 📊 Contribution Activity Graph
 
 <div align="center">
