@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- 1. HEADER BANNER — increased height, reduced font size, adjusted vertical alignment -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Sai%20Krishna%20Gummadidala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=52&descAlign=50&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Sai%20Krishna%20Gummadidala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=52&descAlign=50&descSize=15" width="100%"/>
 
 **`B.Tech CSE (AI & ML) · Parul University · CGPA 8.12`**
 
