@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sai%20Krishna%20Gummadidala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descAlign=50&descSize=16" width="100%"/>
 
-**`B.Tech CSE (AI & ML) · Parul University · CGPA 8.01`**
+**`B.Tech CSE (AI & ML) · Parul University · CGPA 8.12`**
 
 <a href="https://personal-portfolio-kappa-lemon-57.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sai-krishna-gummadidala-261984354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -33,7 +33,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
   <tr>
     <td>🎓</td>
     <td><strong>B.Tech CSE (AI & ML)</strong> — Parul University, Vadodara</td>
-    <td><img src="https://img.shields.io/badge/CGPA-8.01-brightgreen?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/CGPA-8.12-brightgreen?style=flat-square" /></td>
   </tr>
   <tr>
     <td>💼</td>
@@ -61,7 +61,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 | 🥇 | Achievement | Badge |
 |:---:|---|:---:|
 | 🏆 | **Best Performer** — Elevate Labs Internship (Sep–Nov 2025) | ![Best Performer](https://img.shields.io/badge/Award-Best%20Performer-FFD700?style=flat-square&labelColor=000000) |
-| 🚀 | Built & deployed **multiple full-stack apps** in real environments | ![Projects](https://img.shields.io/badge/Projects-3%2B%20Shipped-00C896?style=flat-square&labelColor=1a1a2e) |
+| 🚀 | Built & deployed **4 full-stack apps** in real environments | ![Projects](https://img.shields.io/badge/Projects-4%2B%20Shipped-00C896?style=flat-square&labelColor=1a1a2e) |
 | 🧩 | Active **LeetCode** problem solver — sharpening DSA consistently | ![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=flat-square&logo=leetcode&logoColor=black) |
 | ☁️ | **AWS Academy** certified — hands-on cloud infrastructure knowledge | ![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | 📊 | **Cisco** certified in Python Essentials & Data Science | ![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
@@ -73,7 +73,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 <table>
   <tr>
     <td width="200" align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4o0s2mK8EkdZ8StqZz-r-cCm0XgrKKSNIbA&s" width="52" height="52" style="border-radius:8px" />
+      <img src="https://img.shields.io/badge/🐍-Python-3776AB?style=for-the-badge&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Elevate-Labs-6C63FF?style=flat-square&logoColor=white" />
     </td>
@@ -103,18 +103,33 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/1067/1067357.png" width="28" /> Projects
 
+### <img src="https://cdn-icons-png.flaticon.com/128/2103/2103652.png" width="22" /> CareerMap — AI Career Guidance Platform ⭐
+
+> AI-powered platform that analyzes resumes, identifies skill gaps, and recommends personalized career paths.
+> Integrated Gemini API for tailored roadmaps and built interactive dashboards for real-time career insights.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AI/ML](https://img.shields.io/badge/Gemini%20AI-FF6F00?style=flat-square&logo=googlegemini&logoColor=white)
+
+🔗 **[GitHub Repo](https://github.com/Saikrishna1124/CareerMap)** &nbsp;|&nbsp; 🔗 **[Live Demo](https://careermap-c2vx.onrender.com/)**
+
+---
+
 ### <img src="https://cdn-icons-png.flaticon.com/128/8750/8750754.png" width="22" /> NexusLearn — AI-Powered E-Learning Platform
 
 > Full-stack smart learning platform with AI-driven features, course management, and personalised learning paths.
 > Implemented authentication, AI-based recommendations, and real-time data handling.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![AI/ML](https://img.shields.io/badge/Gemini%20AI-FF6F00?style=flat-square&logo=googlegemini&logoColor=white)
 
-🔗 **[Live Demo](https://nexuslearn-ni3a.onrender.com)**
+🔗 **[GitHub Repo](https://github.com/Saikrishna1124/NexusLearn)** &nbsp;|&nbsp; 🔗 **[Live Demo](https://nexus-learn-lyart.vercel.app/)**
 
 ---
 
@@ -123,11 +138,11 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 > End-to-end college management system handling academics, students, and administration.
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-🔗 **[GitHub Repo](https://github.com/Saikrishna1124/CampusPro)**
+🔗 **[GitHub Repo](https://github.com/Saikrishna1124/CampusPro)** &nbsp;|&nbsp; 🔗 **[Live Demo](https://campus-pro-zfrb-jsklfghsq-saikrishna1124s-projects.vercel.app/)**
 
 ---
 
@@ -151,18 +166,24 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**AI Tools**
+
+![Gemini](https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Databases & Cloud**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
@@ -180,11 +201,13 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 | Certificate | Issuer |
 |---|---|
-| 🐍 Python Essentials 1 | Cisco NetAcad |
-| 📊 Data Science | Cisco |
-| ☁️ AWS Academy | Amazon Web Services |
+| 🐍 Python Essentials 1 | Cisco Networking Academy |
+| 📊 Data Science | Cisco Networking Academy |
+| ☁️ AWS Academy Graduate | Amazon Web Services |
 | 🧩 Algorithm Thinking — Mastering DSA | — |
-| 🥇 Best Performer | Elevate Labs Internship |
+| 🤖 Generative AI for All | Microsoft & Physics Wallah |
+| 🌐 Computer Networks and Internet Protocol | NPTEL |
+| 🥇 Best Performer Award | Elevate Labs Internship |
 
 ---
 
@@ -212,23 +235,6 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
-
-<!--
-  This is the snake game animation over the contribution chart.
-  It requires a GitHub Actions workflow to generate the snake SVGs.
-  Setup: Create `.github/workflows/snake.yml` (see instructions below README).
-  The action pushes generated SVGs to the `output` branch, which these images pull from.
--->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Saikrishna1124/Saikrishna1124/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contributions" />
-
-</div>
-
----
-
 ## 📊 Contribution Activity Graph
 
 <div align="center">
@@ -246,12 +252,6 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Sai_Krishna893?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Sai_Krishna893/)
 
 </div>
-
----
-
-## 🎯 Career Objective
-
-> Aspiring Software Engineer focused on building scalable applications and solving real-world problems through efficient and modern technologies.
 
 ---
 
