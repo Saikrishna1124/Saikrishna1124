@@ -8,6 +8,10 @@
 
 <br/><br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+%2B+Learning+%2B+Shipping+%E2%9C%A8" alt="Typing SVG" />
+
+<br/><br/>
+
 <a href="https://personal-portfolio-kappa-lemon-57.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
 <a href="https://www.linkedin.com/in/sai-krishna-gummadidala-261984354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Saikrishna1124"><img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white" /></a>
