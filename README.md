@@ -1,50 +1,36 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saikrishna1124/Saikrishna1124/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saikrishna1124/Saikrishna1124/main/light.svg">
+  <img alt="Sai Krishna Gummadidala" src="https://raw.githubusercontent.com/Saikrishna1124/Saikrishna1124/main/light.svg" width="100%">
+</picture>
 
-<!-- 1. HEADER BANNER — increased height, reduced font size, adjusted vertical alignment -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Sai%20Krishna%20Gummadidala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=52&descAlign=50&descSize=15" width="100%"/>
+<br/><br/>
 
-**`B.Tech CSE (AI & ML) · Parul University · CGPA 8.12`**
-
-<a href="https://personal-portfolio-kappa-lemon-57.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://personal-portfolio-kappa-lemon-57.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
 <a href="https://www.linkedin.com/in/sai-krishna-gummadidala-261984354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Saikrishna1124"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Sai_Krishna893/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning.+Always+Building.+%E2%9C%A8" alt="Typing SVG" />
-
-<!-- 2. PROFILE VIEWS / FOLLOWERS / STARS — wrapped in one explicit paragraph for guaranteed inline order -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saikrishna1124&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Saikrishna1124?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Saikrishna1124?label=Stars&style=for-the-badge&color=FFD700&labelColor=1a1a2e" />
-</p>
+<a href="https://github.com/Saikrishna1124"><img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Sai_Krishna893/"><img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/128/4727/4727424.png" width="28" /> About Me
+## About Me
 
-<img align="right" width="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZoNzY1OWs0d3hoZW1sdnB5MjF6dTVvY2lrbzNoemxjeWgzZmp4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" />
-
-Passionate Computer Science student specialising in <strong><code>AI & ML</code></strong>, with hands-on experience in full-stack web development and backend engineering. I love building scalable, real-world applications and am always looking for opportunities to grow in a fast-paced environment.
+Passionate Computer Science student specialising in **`AI & ML`**, with hands-on experience in full-stack web development and backend engineering. I love building scalable, real-world applications and am always looking for opportunities to grow in a fast-paced environment.
 
 <table border="0">
   <tr>
     <td>🎓</td>
     <td><strong>B.Tech CSE (AI & ML)</strong> — Parul University, Vadodara</td>
-    <td><img src="https://img.shields.io/badge/CGPA-8.12-brightgreen?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/CGPA-8.12-10B981?style=flat-square&labelColor=0A101F" /></td>
   </tr>
   <tr>
     <td>💼</td>
     <td><strong>Python Developer Intern</strong> — Elevate Labs</td>
-    <td><img src="https://img.shields.io/badge/🏆-Best%20Performer-gold?style=flat-square&labelColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Best%20Performer-A78BFA?style=flat-square&labelColor=0A101F" /></td>
   </tr>
   <tr>
     <td>🌱</td>
@@ -54,51 +40,35 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
   <tr>
     <td>🚀</td>
     <td>Open to <strong>internships</strong> & <strong>full-time SWE roles</strong></td>
-    <td><img src="https://img.shields.io/badge/Status-Available-00e676?style=flat-square&labelColor=1a1a2e" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Available-22D3EE?style=flat-square&labelColor=0A101F" /></td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/128/3135/3135783.png" width="28" /> Achievements
+## Achievements
 
-<img align="right" width="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM2em9wMHM4Ynhid2Z2cjd3Yjk5MzhrdjQ0MnZqdzAyeWJlYTB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwCyz9aOyZhyczzKfr/giphy.webp" />
-
-| 🥇 | Achievement | Badge |
+| | Achievement | Badge |
 |:---:|---|:---:|
-| 🏆 | **Best Performer** — Elevate Labs Internship (Sep–Nov 2025) | ![Best Performer](https://img.shields.io/badge/Award-Best%20Performer-FFD700?style=flat-square&labelColor=000000) |
-| 🚀 | Built & deployed **4 full-stack apps** in real environments | ![Projects](https://img.shields.io/badge/Projects-4%2B%20Shipped-00C896?style=flat-square&labelColor=1a1a2e) |
+| 🏆 | **Best Performer** — Elevate Labs Internship (Sep–Nov 2025) | ![Best Performer](https://img.shields.io/badge/Award-Best%20Performer-A78BFA?style=flat-square&labelColor=0A101F) |
+| 🚀 | Built & deployed **4 full-stack apps** in real environments | ![Projects](https://img.shields.io/badge/Projects-4%2B%20Shipped-10B981?style=flat-square&labelColor=0A101F) |
 | 🧩 | Active **LeetCode** problem solver — sharpening DSA consistently | ![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=flat-square&logo=leetcode&logoColor=black) |
 | ☁️ | **AWS Academy** certified — hands-on cloud infrastructure knowledge | ![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | 📊 | **Cisco** certified in Python Essentials & Data Science | ![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/128/10142/10142862.png" width="28" /> Experience
+## Experience
 
-<table>
-  <tr>
-    <td width="200" align="center">
-      <img src="https://img.shields.io/badge/🐍-Python-3776AB?style=for-the-badge&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Elevate-Labs-6C63FF?style=flat-square&logoColor=white" />
-    </td>
-    <td>
-      <strong>🐍 Python Developer Intern</strong> &nbsp;
-      <img src="https://img.shields.io/badge/Sep%202025–Nov%202025-555555?style=flat-square" />
-      <br/><br/>
-      ✅ &nbsp;Developed robust backend logic and APIs using <code>Python</code><br/>
-      ✅ &nbsp;Delivered features for real-world production applications<br/>
-      🏆 &nbsp;<strong>Awarded Best Performer</strong> out of the entire internship cohort
-      <br/><br/>
-      <img src="https://img.shields.io/badge/🏆%20Best%20Performer-FFD700?style=for-the-badge&labelColor=000000" />
-    </td>
-  </tr>
-</table>
+**🐍 Python Developer Intern** — Elevate Labs &nbsp; `Sep 2025 – Nov 2025`
+
+- Developed robust backend logic and APIs using `Python`
+- Delivered features for real-world production applications
+- 🏆 Awarded **Best Performer** out of the entire internship cohort
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/128/3264/3264753.png" width="28" /> What I Do
+## What I Do
 
 - 💻 Build full-stack web applications
 - 🧠 Solve DSA problems regularly
@@ -107,12 +77,11 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/128/1067/1067357.png" width="28" /> Projects
+## Projects
 
-### <img src="https://cdn-icons-png.flaticon.com/128/2103/2103652.png" width="22" /> CareerMap — AI Career Guidance Platform ⭐
+### CareerMap — AI Career Guidance Platform ⭐
 
-> AI-powered platform that analyzes resumes, identifies skill gaps, and recommends personalized career paths.
-> Integrated Gemini API for tailored roadmaps and built interactive dashboards for real-time career insights.
+> AI-powered platform that analyzes resumes, identifies skill gaps, and recommends personalized career paths. Integrated Gemini API for tailored roadmaps and built interactive dashboards for real-time career insights.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -124,10 +93,9 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/128/8750/8750754.png" width="22" /> NexusLearn — AI-Powered E-Learning Platform
+### NexusLearn — AI-Powered E-Learning Platform
 
-> Full-stack smart learning platform with AI-driven features, course management, and personalised learning paths.
-> Implemented authentication, AI-based recommendations, and real-time data handling.
+> Full-stack smart learning platform with AI-driven features, course management, and personalised learning paths. Implemented authentication, AI-based recommendations, and real-time data handling.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -139,7 +107,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/128/167/167707.png" width="22" /> CampusPro — College Management System
+### CampusPro — College Management System
 
 > End-to-end college management system handling academics, students, and administration.
 
@@ -162,7 +130,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/128/10262/10262344.png" width="28" /> Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -203,7 +171,7 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2679/2679078.png" width="28" /> Certifications
+## Certifications
 
 | Certificate | Issuer |
 |---|---|
@@ -217,41 +185,38 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/128/1011/1011528.png" width="28" /> GitHub Stats
+## GitHub Stats
+
+> ⚠️ Replace `YOUR-INSTANCE` below once you've self-hosted (see checklist) — the public instance rate-limits constantly.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saikrishna1124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7FF&icon_color=6C63FF" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Saikrishna1124&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=00F7FF&fire=FFD700&currStreakLabel=00F7FF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna1124&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saikrishna1124&theme=tokyonight" width="48%" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Saikrishna1124&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<br/>
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=Saikrishna1124&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Saikrishna1124&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
 </div>
 
 ---
+
 ## 🐍 Watch My Contributions Get Eaten!
 
+> ⚠️ Only add this block after the snake workflow (below) has run at least once — the `output` branch won't exist before then.
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saikrishna1124/Saikrishna1124/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saikrishna1124/Saikrishna1124/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Saikrishna1124/Saikrishna1124/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 📊 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saikrishna1124&bg_color=0D1117&color=00F7FF&line=6C63FF&point=FFD700&area=true&hide_border=true&custom_title=Sai%20Krishna's%20Contribution%20Graph" width="100%" />
-
-</div>
-
----
-
-## 🧩 LeetCode Progress
+## LeetCode Progress
 
 <div align="center">
 
@@ -261,14 +226,15 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sai-krishna-gummadidala-261984354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Saikrishna1124"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Sai_Krishna893/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://personal-portfolio-kappa-lemon-57.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Sai_Krishna893/"><img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+&nbsp;&nbsp;
+<a href="https://personal-portfolio-kappa-lemon-57.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
 
 </div>
 
@@ -276,16 +242,12 @@ Passionate Computer Science student specialising in <strong><code>AI & ML</code>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400" />
-
 ### Thank You for Visiting! 🙏
 
-**⭐ Always learning. Always building.**
+**Always learning. Always building.**
 
 Made with ❤️ by [Sai Krishna](https://github.com/Saikrishna1124)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-July%202026-00F7FF?style=flat-square&labelColor=1a1a2e)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+![Last Updated](https://img.shields.io/badge/Last%20Updated-July%202026-22D3EE?style=flat-square&labelColor=0A101F)
 
 </div>
