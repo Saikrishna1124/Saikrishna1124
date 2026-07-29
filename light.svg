@@ -1,1 +1,94 @@
+<svg width="1180" height="500" viewBox="0 0 1180 500" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'Consolas', monospace">
+  <defs>
+    <style>
+      .lbl { fill:#64748B; font-size:14px; }
+      .val { fill:#0F172A; font-size:14px; }
+      .hdr { fill:#0891B2; font-size:13px; font-weight:bold; }
+      .leader { stroke:#CBD5E1; stroke-width:1; stroke-dasharray:1,4; }
+    </style>
+  </defs>
 
+  <rect x="0" y="0" width="1180" height="500" rx="14" fill="#F8FAFC"/>
+  <rect x="0.5" y="0.5" width="1179" height="499" rx="14" fill="none" stroke="#E2E8F0" stroke-width="1"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="1180" height="42" rx="14" fill="#EEF2F7"/>
+  <rect x="0" y="28" width="1180" height="14" fill="#EEF2F7"/>
+  <circle cx="26" cy="21" r="6" fill="#EF4444"/>
+  <circle cx="46" cy="21" r="6" fill="#F59E0B"/>
+  <circle cx="66" cy="21" r="6" fill="#10B981"/>
+  <text x="590" y="26" text-anchor="middle" class="hdr" fill="#94A3B8">profile.sh --live</text>
+
+  <!-- live badge -->
+  <circle cx="1100" cy="21" r="4" fill="#EF4444">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1112" y="25" class="hdr" fill="#EF4444" font-size="12">LIVE</text>
+
+  <!-- handle pill -->
+  <rect x="26" y="60" width="168" height="30" rx="15" fill="#7C3AED"/>
+  <text x="110" y="80" text-anchor="middle" fill="#F5F3FF" font-size="14" font-weight="bold">@Saikrishna1124</text>
+
+  <text x="26" y="118" class="hdr">SYSTEM.INFO</text>
+  <line x1="26" y1="128" x2="1154" y2="128" stroke="#E2E8F0" stroke-width="1"/>
+
+  <text x="26" y="155" class="lbl">Subject</text>
+  <line x1="110" y1="151" x2="900" y2="151" class="leader"/>
+  <text x="1154" y="155" text-anchor="end" class="val">Sai Krishna Gummadidala</text>
+
+  <text x="26" y="178" class="lbl">Role</text>
+  <line x1="90" y1="174" x2="900" y2="174" class="leader"/>
+  <text x="1154" y="178" text-anchor="end" class="val">Software Engineer / Full-Stack Developer / AI &amp; ML Enthusiast</text>
+
+  <text x="26" y="201" class="lbl">Origin</text>
+  <line x1="98" y1="197" x2="900" y2="197" class="leader"/>
+  <text x="1154" y="201" text-anchor="end" class="val">Vadodara, Gujarat, India</text>
+
+  <text x="26" y="224" class="lbl">Education</text>
+  <line x1="128" y1="220" x2="900" y2="220" class="leader"/>
+  <text x="1154" y="224" text-anchor="end" class="val">B.Tech CSE (AI &amp; ML), Parul University · CGPA 8.12</text>
+
+  <text x="26" y="247" class="lbl">Status</text>
+  <line x1="100" y1="243" x2="900" y2="243" class="leader"/>
+  <text x="1154" y="247" text-anchor="end" class="val">Building + Learning + Shipping</text>
+
+  <text x="26" y="270" class="lbl">ToolChain</text>
+  <line x1="128" y1="266" x2="900" y2="266" class="leader"/>
+  <text x="1154" y="270" text-anchor="end" class="val">VS Code · Git · GitHub · Postman</text>
+
+  <line x1="26" y1="286" x2="1154" y2="286" stroke="#E2E8F0" stroke-width="1"/>
+
+  <text x="26" y="311" class="lbl">Core.Lang</text>
+  <line x1="132" y1="307" x2="900" y2="307" class="leader"/>
+  <text x="1154" y="311" text-anchor="end" class="val">Python · Java · C · JavaScript · TypeScript · SQL</text>
+
+  <text x="26" y="334" class="lbl">Core.Frontend</text>
+  <line x1="160" y1="330" x2="900" y2="330" class="leader"/>
+  <text x="1154" y="334" text-anchor="end" class="val">React · TypeScript</text>
+
+  <text x="26" y="357" class="lbl">Core.Backend</text>
+  <line x1="154" y1="353" x2="900" y2="353" class="leader"/>
+  <text x="1154" y="357" text-anchor="end" class="val">Django · Flask · Node.js</text>
+
+  <text x="26" y="380" class="lbl">Core.Database</text>
+  <line x1="164" y1="376" x2="900" y2="376" class="leader"/>
+  <text x="1154" y="380" text-anchor="end" class="val">MySQL · PostgreSQL · MongoDB</text>
+
+  <text x="26" y="403" class="lbl">Core.Infra</text>
+  <line x1="128" y1="399" x2="900" y2="399" class="leader"/>
+  <text x="1154" y="403" text-anchor="end" class="val">AWS</text>
+
+  <line x1="26" y1="419" x2="1154" y2="419" stroke="#E2E8F0" stroke-width="1"/>
+
+  <text x="26" y="444" class="lbl">Grid.Portfolio</text>
+  <line x1="164" y1="440" x2="900" y2="440" class="leader"/>
+  <text x="1154" y="444" text-anchor="end" class="val">personal-portfolio-kappa-lemon-57.vercel.app</text>
+
+  <text x="26" y="467" class="lbl">Grid.LinkedIn</text>
+  <line x1="158" y1="463" x2="900" y2="463" class="leader"/>
+  <text x="1154" y="467" text-anchor="end" class="val">linkedin.com/in/sai-krishna-gummadidala</text>
+
+  <text x="26" y="490" class="lbl">Grid.LeetCode</text>
+  <line x1="164" y1="486" x2="900" y2="486" class="leader"/>
+  <text x="1154" y="490" text-anchor="end" class="val">leetcode.com/u/Sai_Krishna893</text>
+</svg>
