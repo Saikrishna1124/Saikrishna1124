@@ -6,8 +6,6 @@
       .hdr { fill:#22D3EE; font-size:13px; font-weight:bold; }
       .leader { stroke:#334155; stroke-width:1; stroke-dasharray:1,4; }
       .dots { fill:#A78BFA; shape-rendering:crispEdges; }
-      @keyframes fadein { from {opacity:0} to {opacity:1} }
-      .dots { animation: fadein 1.6s ease-out; }
     </style>
   </defs>
 
