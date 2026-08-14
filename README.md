@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://personal-portfolio-kappa-lemon-57.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
+<a href="https://saikrishna-portfolio-drab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
 <a href="https://www.linkedin.com/in/sai-krishna-gummadidala-261984354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Saikrishna1124"><img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Sai_Krishna893/"><img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
