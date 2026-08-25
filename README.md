@@ -130,7 +130,7 @@ Passionate Computer Science student specialising in **`AI & ML`**, with hands-on
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-🔗 **[View Portfolio](https://personal-portfolio-kappa-lemon-57.vercel.app)**
+🔗 **[View Portfolio](http://saikrishna-portfolio-drab.vercel.app/)**
 
 ---
 
@@ -236,7 +236,7 @@ Passionate Computer Science student specialising in **`AI & ML`**, with hands-on
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/Sai_Krishna893/"><img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 &nbsp;&nbsp;
-<a href="https://personal-portfolio-kappa-lemon-57.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
+<a href="http://saikrishna-portfolio-drab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
 
 </div>
 
