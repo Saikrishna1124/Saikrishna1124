@@ -120,7 +120,8 @@ Passionate Computer Science student specialising in **`AI & ML`**, with hands-on
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-🔗 **[GitHub Repo](https://github.com/Saikrishna1124/CampusPro)** &nbsp;|&nbsp; 🔗 **[Live Demo](https://campus-pro-zfrb-jsklfghsq-saikrishna1124s-projects.vercel.app/)**
+🔗 **[GitHub Repo](https://github.com/Saikrishna1124/CampusPro)** &nbsp;|&nbsp; 🔗 **[Live Demo](
+https://campus-pro-p5fp.vercel.app/)**
 
 ---
 
